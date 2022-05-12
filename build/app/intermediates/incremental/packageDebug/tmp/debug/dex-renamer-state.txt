@@ -1,4 +1,0 @@
-#Thu May 12 18:07:50 BRT 2022
-base.0=/home/abzu/Desktop/app/appmoney/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
